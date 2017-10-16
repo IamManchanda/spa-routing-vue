@@ -1,6 +1,6 @@
 # spa-routing-vue
 
-> Vue.js Sinple Page Application and Routing
+> Vue.js Single Page Application and Routing
 
 ## Build Setup
 
